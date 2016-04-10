@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Larry & Jane Robbins, Auckland NZ]]></title>
+        <description><![CDATA[Larry & Jane Robbins, Auckland NZ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 21:04:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Larry & Jane Robbins, Auckland NZ]]></title>
+            <description><![CDATA[<article><h1>Larry & Jane Robbins, Auckland NZ</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85a23575-ae8e-4497-9981-2f60f8d0ef70.jpg"></article>]]></description>
+            <link>undefinedlarry-and-jane-robbins-auckland-nz/index.html</link>
+            <guid isPermaLink="false">08c0fd3f-32ce-48ee-ac04-93491122e19e</guid>
+            <pubDate>Sun, 10 Apr 2016 21:02:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
